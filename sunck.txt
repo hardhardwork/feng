@@ -10,3 +10,5 @@ lxq  change the file at 10:34
 
 
 lxq  change the file at 10:51，but not  commit to master
+
+cqm  change the  file based  lxq 
